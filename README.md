@@ -11,10 +11,10 @@ Please see <a href="https://github.com/jholung12/jholung12">here</a> for more!
   - [Kalooki Online (Work in Progress)](https://github.com/jholung12/Kalooki-Online)
 
 <h2>📺 Development Showcase</h2>
-<img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve1.gif"/>
-<img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve2.gif"/>
+<img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Don't%20Starve%20Together%20Mod/Maeve1.gif"/>
+<img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Don't%20Starve%20Together%20Mod/Maeve2.gif"/>
 
 
-<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Suri2.gif"/>
-<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Suri1.gif"/>
+<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Don't%20Starve%20Together%20Mod/Suri2.gif"/>
+<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Don't%20Starve%20Together%20Mod/Suri1.gif"/>
 

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/joshmadakor1">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a>
+<h1>Hi, I'm Justin! <br/><a href="https://github.com/jholung12">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a>
 
 <h2>👨‍💻 Game Development Projects:</h2>
 

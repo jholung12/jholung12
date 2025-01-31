@@ -7,7 +7,7 @@
 
 - <b>C# (Unity)</b>
   - [Online Multiplayer Card Game(Practive & Proof of Concept)](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Kalooki Online (Work in Progress)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Kalooki Online (Work in Progress)](https://github.com/jholung12/Kalooki-Online)
 
 <h2>📺 Development Showcase</h2>
 

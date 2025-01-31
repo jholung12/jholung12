@@ -10,5 +10,5 @@
 
 <h2>📺 Development Showcase</h2>
 <img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve1.gif"/>
-<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve2.gif"/>
+<img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve2.gif"/>
 

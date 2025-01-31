@@ -12,6 +12,6 @@
 <img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve1.gif"/>
 <img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve2.gif"/>
 
-<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Suri1.gif"/>
 <img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Suri2.gif"/>
+<img align="right" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Suri1.gif"/>
 

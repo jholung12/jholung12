@@ -1,5 +1,7 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/jholung12">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a>
-<h2>👨‍💻 Game Development Projects:</h2>
+<h1>Hi, I'm Justin! <br/><a href="https://github.com/jholung12">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a><br/>
+<h2>Please see <a href="https://github.com/jholung12/jholung12">here</a> for more!
+
+  <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Lua</b>
   - [Don't Starve Together Mod (Work in Progress)](https://github.com/SeckSea/suri-dst-mod)

@@ -3,7 +3,7 @@
 <h2>👨‍💻 Game Development Projects:</h2>
 
 - <b>Lua</b>
-  - [Don't Starve Together Mod (Work in Progress)](github)
+  - [Don't Starve Together Mod (Work in Progress)](https://github.com/SeckSea/suri-dst-mod)
 
 - <b>C# (Unity)</b>
   - [Online Multiplayer Card Game(Practive & Proof of Concept)](https://github.com/joshmadakor1/Sentinel-Lab)

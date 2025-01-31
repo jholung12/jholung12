@@ -13,11 +13,10 @@
 
 <img align="left" width="25%" height="25%" src="https://github.com/jholung12/jholung12/blob/main/Maeve2.gif"/>
 
+<br>
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Justin Ho Lung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br>
 
 [linkedin]: https://www.linkedin.com/in/justin-ho-lung-76b6a822a/
 

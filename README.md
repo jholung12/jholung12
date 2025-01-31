@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://github.com/jholung12">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a>
+<h1>Hi, I'm Justin! <br/><a href="https://github.com/jholung12">Aspiring Game Developer</a>, <a href="https://www.linkedin.com/in/justin-ho-lung-76b6a822a/">Software Developer Professional</a>[<img align="left" alt="Justin Ho Lung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <h2>👨‍💻 Game Development Projects:</h2>
 
@@ -16,7 +16,7 @@
 <br>
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Justin Ho Lung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 [linkedin]: https://www.linkedin.com/in/justin-ho-lung-76b6a822a/
 
